@@ -78,6 +78,7 @@ public class UserInterface {
 
     private static void triangle() {
         System.out.println("What is the width of the border?");
+        System.out.println("this is a new branch from branch 1");
         System.out.println("What is the color?");
         System.out.println("What is the location of the shape(x,y)?");
     }
